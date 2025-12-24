@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: archive
 title: "Experience"
 permalink: /cv/
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Industry Experience
-**Jan 2019 — Feb 2022**     **Senior Software Engineer (Band 7A), IBM India Software Labs**
+**Jan 2019 â€” Feb 2022**     **Senior Software Engineer (Band 7A), IBM India Software Labs**
                             *Bengaluru, Karnataka, India*
 
 - Migrating IBM Watson Machine Learning (WML) Deployment Service into the on-premises Cloud Pak for Data environment by
@@ -21,7 +21,7 @@ implemented to provide multiple teams with better collaboration operations.
 WML Deployment service to be used as a backend in their applications.
 
 
-**Jul 2017 — Jan 2019**     **Software Engineer, IBM India Software Labs**
+**Jul 2017 â€” Jan 2019**     **Software Engineer, IBM India Software Labs**
                             *Bengaluru, Karnataka, India*
 
 - Wrote the kubernetes and flask service code for deploying scikit-learn, xgboost, pytorch and tensorflow models. This feature
@@ -31,13 +31,13 @@ S3 and IBM Cloud Object Storage to provide capability to query backend Machine L
 requests.
 
 
-**Jan 2017 — Jun 2017**     **Project Intern, IBM India Software Labs**
+**Jan 2017 â€” Jun 2017**     **Project Intern, IBM India Software Labs**
                             *Bengaluru, Karnataka, India*
 
 - Wrote the early code and design of scikit-learn and xgboost model deployment of WML deployment service in Python Flask
 
 
-**May 2016 — Jul 2016**     **Research Intern, National Tsing Hua University**
+**May 2016 â€” Jul 2016**     **Research Intern, National Tsing Hua University**
                             *Hsinchu, Taiwan*
 
 - Worked on the problem of Automated Theatrical Performance Analysis to detect and rate actions performed by actors using
@@ -45,7 +45,7 @@ Siamese network for detecting actor poses with the Caffe library for neural netw
 the project, most of the project time was spent on exploration of algorithms and testing.
 
 
-**May 2015 — Aug 2015**     **Research Intern, Siemens Research Technology Centre**
+**May 2015 â€” Aug 2015**     **Research Intern, Siemens Research Technology Centre**
                             *Bengaluru, Karnataka, India*
 
 - Ported architecture of constant-time (O(1)) sorting algorithms from Artificial Neural Networks to Spiking Neural Networks using
