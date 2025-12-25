@@ -51,3 +51,7 @@ the project, most of the project time was spent on exploration of algorithms and
 - Ported architecture of constant-time (O(1)) sorting algorithms from Artificial Neural Networks to Spiking Neural Networks using
 the CARLsim neurosimulator, written in C++
 
+
+
+For the full CV, [click here](../files/srikrishnasbhat_cv.pdf).
+
