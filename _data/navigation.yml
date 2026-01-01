@@ -16,7 +16,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Other Activities"
+    url: /other_activities"
   #- title: "Portfolio"
   #  url: /portfolio/
         
