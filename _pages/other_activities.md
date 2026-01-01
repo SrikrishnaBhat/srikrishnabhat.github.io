@@ -19,3 +19,7 @@ redirect_from:
 - Organised two symposiums:
   - Research Tools symposium highlighting and bringing awareness of various tools used by students in their respective domains for research.
   - another on PhD Oral Examination guides and tips.
+
+# Hobbies
+- Bouldering
+- Competitive Gaming (Overwatch 2)
